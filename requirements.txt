@@ -1,0 +1,13 @@
+# AI Model Convergence Research - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Data Analysis
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Optional: For enhanced analysis
+scipy>=1.10.0
