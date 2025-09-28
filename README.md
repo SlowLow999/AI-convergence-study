@@ -190,9 +190,6 @@ The results indicate current LLMs may not exhibit genuine creativity but rather 
 - **Intervention Studies:** Testing methods to increase output diversity
 
 ## 7. Limitations
-
-- **Prompt Standardization:** Original prompts were inferred from responses; exact wording may have varied
-- **Sample Size:** Limited to available models at testing time
 - **Temporal Factors:** Tests conducted at single time points; responses may vary over time
 - **Language Limitation:** Tests conducted only in English
 - **Context Absence:** Single-turn interactions without conversational context
