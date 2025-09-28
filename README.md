@@ -1,4 +1,4 @@
-# Convergence Patterns in Large Language Model Responses: A Comparative Analysis of Creative Output Diversity
+# The Serendipity Effect: Measuring Convergence in AI Creative Responses
 
 ## Abstract
 
