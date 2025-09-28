@@ -245,7 +245,7 @@ This research was conducted using publicly available AI models. We acknowledge t
 
 ## Data Availability
 
-Raw response data and analysis scripts are available at [repository URL to be added].
+Raw response data and analysis scripts are available at `scripts` and `Data` folders.
 
 ## Funding
 
